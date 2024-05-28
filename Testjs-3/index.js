@@ -22,25 +22,42 @@
 
 // q5
 
-let arr = [1, 2, 2, 3, 4, 4, 5];
+// let arr = [1, 2, 2, 3, 4, 4, 5];
 
-let array1 =[]
+// array1 =[]
 
-function removeDuplicate(arr) {
-  for (i = 0; i < arr.length; i++) {
-    if (!array1.includes(arr(i))) {
-      array1.push(arr[i])
+// function removeDuplicate(arr) {
+//   for (let i = 0; i < arr.length; i++) {
+//     if (!array1.includes(arr[i])) {
+//       array1.push(arr[i])
 
-    }
-  }
-  return array1;
-}
+//     }
+//   }
+//   return array1;
+// }
 
- let array1 = removeDuplicate(arr);
+//  array1 = removeDuplicate(arr);
 
-console.log(array1);
-
-
+// console.log(array1);
 
 
 
+// q1
+
+// for (leti = 1;i <= 100;i++) {
+//   if (i % 3 === 0 && i % 5 === 0) {
+//       console.log("FizzBuzz");
+
+//   } else if (i % 3 === 0) {
+//       console.log("Fizz");
+
+//   } else if (i % 5 === 0) {
+//       console.log("Buzz");
+
+//   } else {
+//       console.log(i);
+//   }
+// }
+
+
+// q2
